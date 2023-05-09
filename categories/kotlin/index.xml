@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kotlin on My New Hugo Site</title>
+    <link>http://jun23314.github.io/categories/kotlin/</link>
+    <description>Recent content in Kotlin on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>dlwnsfml@naver.com (이준희)</managingEditor>
+    <webMaster>dlwnsfml@naver.com (이준희)</webMaster>
+    <lastBuildDate>Thu, 07 Apr 2022 14:00:00 +0000</lastBuildDate><atom:link href="http://jun23314.github.io/categories/kotlin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>첫 팀프로젝트</title>
+      <link>http://jun23314.github.io/portfolio/example-team-no-github/</link>
+      <pubDate>Thu, 07 Apr 2022 14:00:00 +0000</pubDate>
+      <author>dlwnsfml@naver.com (이준희)</author>
+      <guid>http://jun23314.github.io/portfolio/example-team-no-github/</guid>
+      <description>2학년 2학기에 들었던 객체지향 프로그래밍에서 안드로이드 스튜디오를 활용해 팀프로젝트를 진행하였다.
+그 중에서 스탑워치 만들기 코드가 있어서 가져왔다.</description>
+    </item>
+    
+  </channel>
+</rss>

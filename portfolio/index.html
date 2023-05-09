@@ -175,6 +175,12 @@
         <li uk-filter-control><a href="#">All</a></li>
         
 
+        <li uk-filter-control="[data-tags*='kotlin']">
+          <a href="#">kotlin</a>
+        </li>
+
+        
+
         <li uk-filter-control="[data-tags*='web-dev']">
           <a href="#">Web Dev</a>
         </li>
@@ -187,6 +193,30 @@
         uk-grid
         uk-height-match="target: > li > div > .fixy"
       >
+        
+        <li data-tags="Kotlin">
+          <div class="uk-card uk-card-default" style="position: relative;">
+            <div class="fixy">
+              <div class="uk-card-media-top">
+                <img
+                  class="contain experience"
+                  src="https://ifh.cc/g/zkvk7k.png"
+                  alt=""
+                />
+              </div>
+              <div class="uk-card-body">
+                <h3 class="uk-card-title">첫 팀프로젝트</h3>
+                <p>안드로이드 스튜디오로 스탑워치 만들기</p>
+              </div>
+            </div>
+
+            <div class="uk-card-footer">
+              <a href="/portfolio/example-team-no-github/" class="uk-button uk-button-text"
+                >Read more</a
+              >
+            </div>
+          </div>
+        </li>
         
         <li data-tags="web-dev">
           <div class="uk-card uk-card-default" style="position: relative;">
@@ -206,30 +236,6 @@
 
             <div class="uk-card-footer">
               <a href="/portfolio/hugo-portfolio-website/" class="uk-button uk-button-text"
-                >Read more</a
-              >
-            </div>
-          </div>
-        </li>
-        
-        <li data-tags="web-dev">
-          <div class="uk-card uk-card-default" style="position: relative;">
-            <div class="fixy">
-              <div class="uk-card-media-top">
-                <img
-                  class="contain experience"
-                  src="https://res.cloudinary.com/samrobbins/image/upload/q_auto/v1591793276/logos/logos_hugo_h2xbne.svg"
-                  alt=""
-                />
-              </div>
-              <div class="uk-card-body">
-                <h3 class="uk-card-title">Team project without GitHub</h3>
-                <p>A portfolio website made with Hugo</p>
-              </div>
-            </div>
-
-            <div class="uk-card-footer">
-              <a href="/portfolio/example-team-no-github/" class="uk-button uk-button-text"
                 >Read more</a
               >
             </div>

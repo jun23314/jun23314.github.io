@@ -10,6 +10,16 @@
     <webMaster>dlwnsfml@naver.com (이준희)</webMaster>
     <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="http://jun23314.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>첫 팀프로젝트</title>
+      <link>http://jun23314.github.io/portfolio/example-team-no-github/</link>
+      <pubDate>Thu, 07 Apr 2022 14:00:00 +0000</pubDate>
+      <author>dlwnsfml@naver.com (이준희)</author>
+      <guid>http://jun23314.github.io/portfolio/example-team-no-github/</guid>
+      <description>2학년 2학기에 들었던 객체지향 프로그래밍에서 안드로이드 스튜디오를 활용해 팀프로젝트를 진행하였다.
+그 중에서 스탑워치 만들기 코드가 있어서 가져왔다.</description>
+    </item>
+    
+    <item>
       <title>Hugo Portfolio Website</title>
       <link>http://jun23314.github.io/portfolio/hugo-portfolio-website/</link>
       <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
@@ -18,15 +28,6 @@
       <description>I created my portfolio website using Hugo and UIKit, it serves as an online resume containing all my work.
 This has been created as a theme so that others can use and adapt it.
 Sections Homepage The homepage provides the basic information about you, including links to social media, skills you have, things you&amp;rsquo;ve done and your education. This page makes good use of UIKit grid and cards for organising all the information and ensuring it is responsive to work on mobile devices.</description>
-    </item>
-    
-    <item>
-      <title>Team project without GitHub</title>
-      <link>http://jun23314.github.io/portfolio/example-team-no-github/</link>
-      <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
-      <author>dlwnsfml@naver.com (이준희)</author>
-      <guid>http://jun23314.github.io/portfolio/example-team-no-github/</guid>
-      <description>This is some content</description>
     </item>
     
   </channel>
